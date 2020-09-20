@@ -1,2 +1,2 @@
 # hello-world
-Assignment 0 - Intro to Software Engineering
+A third-year student at the University of Windsor pursuing a Double Major (Bachelor of Commerce Honours Business Administration and Computer Science).
